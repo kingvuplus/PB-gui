@@ -1,0 +1,2 @@
+SUBDIRS = Components Screens Plugins
+
